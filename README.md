@@ -6,6 +6,7 @@
 > [!NOTE]
 <a href="https://github.com/ny4rlk0/Oculus-Quest-2-ADB-Drivers/releases/download/quest_2_adb_driver/Quest.2.ADB.Drivers.-.ny4rlk0.zip">⬇✔Download / İndir - Unsigned💾✅</a>
 <br>
+> [!NOTE]
 <a href="https://github.com/ny4rlk0/Oculus-Quest-2-ADB-Drivers/releases/download/quest_2_adb_driver/oculus-drivers.zip">⬇✔Download / İndir - Signed💾✅</a>
 <br>
 ```
