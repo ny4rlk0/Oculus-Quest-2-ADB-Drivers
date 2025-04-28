@@ -15,5 +15,3 @@
 <br>%CompositeAdbInterface%     = USB_Install, USB\VID_2833&PID_0186&REV_0419&MI_00
 <br>%SingleBootLoaderInterface% = USB_Install, USB\VID_2833&PID_0081
 <br>
-<br>Before:
-![1](https://github.com/user-attachments/assets/13f952bd-a382-4f46-944b-890774c0ef74)
