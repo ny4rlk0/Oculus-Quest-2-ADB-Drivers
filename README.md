@@ -1,5 +1,5 @@
 # Oculus-Quest-2-Drivers
-<br>Fixed Quest 2 Drivers Unsigned
+<br>Fixed Quest 2 Hardware ID mismatch - Unsigned Driver 
 <br>Shift + Reboot. Select advanced and disable driver signing before install.
 <br>
 > [!NOTE]
